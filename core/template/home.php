@@ -1,10 +1,10 @@
 <?php
-  echo format::preBody();
+  echo format::preBody(THEME);
 ?>
 <div class="question" data-questionid="20681689" id="question">
 
     <script>
-                var ados = ados || {}; ados.run = ados.run || [];
+                var dos = dos || {}; dos.run = dos.run || [];
                 dos.run.push(function () { ados_add_placement(22,8277,"adzerk1423583063",4).setZone(43); });
             </script>
                 <table>

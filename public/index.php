@@ -2,7 +2,7 @@
 
 define(VERSION, 'local');
 
-define(THEME, 'www');
+define(THEME, 'theme01');
 
 define(APP_DIR, dirname(__FILE__) . '/core/' . VERSION);
 define(THEME_DIR, dirname(__FILE__) . '/theme/' . VERSION . '/' . THEME);
