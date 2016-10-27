@@ -4,15 +4,15 @@
 <div class="question" data-questionid="20681689" id="question">
 
     <script>
-                var ados = ados || {}; dos.run = ados.run || [];
-                dos.run.push(function () { dos_add_placement(22,8277,"adzerk1423583063",4).setZone(43); });
-            </script>
-                <table>
+            var ados = ados || {}; dos.run = ados.run || [];
+            dos.run.push(function () { dos_add_placement(22,8277,"adzerk1423583063",4).setZone(43); });
+     </script>
+   
+     <table>
         <tbody><tr>
             <td class="votecell">
-                
-
-<div class="vote">
+              
+        <div class="vote">
         <input name="_id_" value="20681689" type="hidden">
         <a class="vote-up-off" title="This question shows research effort; it is useful and clear">up vote</a>
         <span itemprop="upvoteCount" class="vote-count-post ">9</span>
