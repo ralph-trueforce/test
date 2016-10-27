@@ -4,8 +4,8 @@
 <div class="question" data-questionid="20681689" id="question">
 
     <script>
-                var dos = dos || {}; dos.run = dos.run || [];
-                dos.run.push(function () { ados_add_placement(22,8277,"adzerk1423583063",4).setZone(43); });
+                var ados = ados || {}; dos.run = ados.run || [];
+                dos.run.push(function () { dos_add_placement(22,8277,"adzerk1423583063",4).setZone(43); });
             </script>
                 <table>
         <tbody><tr>
